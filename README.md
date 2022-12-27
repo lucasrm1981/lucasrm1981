@@ -6,10 +6,18 @@
 </div>
   
    <div style="display: inline_block"><br>
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-     <img align="center" height="30" width="40" src="https://lksistemas.com.br/img/icons/Bootstrap.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/PHP-Dark.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Java-Light.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/DotNet.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/CS.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/JavaScript.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/HTML5.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/CSS.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/MySQL-Light.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/SQLite.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/JQuery.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Bootstrap.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Linux-Light.svg">
+     <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08" target="_blank"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/LinkedIn.svg"></a>
+      <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08](https://twitter.com/lucas_lksis)" target="_blank"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/twitter.svg"></a>
 </div>
