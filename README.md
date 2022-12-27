@@ -11,7 +11,7 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/DotNet.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/CS.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/JavaScript.svg">
-     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/HTML5.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/HTML.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/CSS.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/MySQL-Light.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/SQLite.svg">
@@ -19,5 +19,5 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Bootstrap.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Linux-Light.svg">
      <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08" target="_blank"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/LinkedIn.svg"></a>
-      <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08](https://twitter.com/lucas_lksis)" target="_blank"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/twitter.svg"></a>
+      <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08](https://twitter.com/lucas_lksis)" target="_blank"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Twitter.svg"></a>
 </div>
