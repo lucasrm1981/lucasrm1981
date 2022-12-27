@@ -14,7 +14,7 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/HTML.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/CSS.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/MySQL-Light.svg">
-     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/SQLite.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/sql-server.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/JQuery.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Bootstrap.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Linux-Light.svg">
