@@ -24,7 +24,7 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VSCode-Light.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VisualStudio-Light.svg">
      <br/><br/>
-     <a href="http://lattes.cnpq.br/0086088818420944" target="_blank" rel="noreferrer noopener"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/lattes.svg"></a>
-     <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08" target="_blank" rel="noreferrer noopener"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/LinkedIn.svg"></a>
-      <a href="https://twitter.com/lucas_lksis" target="_blank" rel="noreferrer noopener"><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Twitter.svg"></a>
+     <a href="http://lattes.cnpq.br/0086088818420944" target="_blank" ><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/lattes.svg"></a>
+     <a href="https://www.linkedin.com/pub/lucas-rodrigues-monteiro/3a/66/a08" target="_blank" ><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/LinkedIn.svg"></a>
+      <a href="https://twitter.com/lucas_lksis" target="_blank" ><img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Twitter.svg"></a>
 </div>
