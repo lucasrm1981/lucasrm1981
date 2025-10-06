@@ -23,10 +23,10 @@
    </div>
    <div style="display: inline_block"><br><br/>  
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Powershell-Light.svg">Editores:     <br><br/> 
-     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VSCode-Light.svg">
-     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VisualStudio-Light.svg">
-     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/NetBeans-Logo.svg">
-     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Eclipse-Light.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VSCode-Light.svg" title="Microsoft Visual Code">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VisualStudio-Light.svg" title="Microsoft Visual Studio">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/NetBeans-Logo.svg" title="Apache NetBeans">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Eclipse-Light.svg" title="Eclipse Foundation">
    </div>
      <div style="display: inline_block"><br>
        <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Instagram.svg">Contato:  <br><br/> 
