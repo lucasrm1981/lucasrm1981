@@ -25,6 +25,7 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Powershell-Light.svg">Editores:     <br><br/> 
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VSCode-Light.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VisualStudio-Light.svg">
+     <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/NetBeans-Logo.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Eclipse-Light.svg">
    </div>
      <div style="display: inline_block"><br>
